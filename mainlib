@@ -143,7 +143,7 @@ function library:new(props)
 	local screen = utility.new(
 		"ScreenGui",
 		{
-			Name = tostring(math.random(0,999999))..tostring(math.random(0,999999)),
+			Name = "Sythe_hRCgUQjAcjcegcjxcxSUg",
 			DisplayOrder = 9999,
 			ResetOnSpawn = false,
 			ZIndexBehavior = "Global",
@@ -554,7 +554,7 @@ function library:loader(props)
 	local screen = utility.new(
 		"ScreenGui",
 		{
-			Name = tostring(math.random(0,999999))..tostring(math.random(0,999999)),
+			Name = "Sythe_hRCgUQjAcjcegcjxcxSUg",
 			DisplayOrder = 9999,
 			ResetOnSpawn = false,
 			ZIndexBehavior = "Global",
